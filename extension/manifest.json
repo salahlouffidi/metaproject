@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "PHISHGUARD AI",
+  "version": "0.1.0",
+  "description": "Analyze visible page links for phishing risk using local heuristics and Meta AI.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "http://localhost:8787/*"
+  ],
+  "action": {
+    "default_title": "PHISHGUARD AI",
+    "default_popup": "popup.html"
+  }
+}
