@@ -30,8 +30,8 @@ The collector can include hidden anchors in the DOM and does not scroll the feed
 Requires Node.js 20 or later, npm, and Chrome or Edge.
 
 ```bash
-git clone https://github.com/salahlouffidi/metaproject.github.io.git
-cd metaproject.github.io/server
+git clone https://github.com/salahlouffidi/metaproject.git
+cd metaproject/server
 npm install
 ```
 
